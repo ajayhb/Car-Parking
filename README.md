@@ -29,4 +29,4 @@
 5) All input files must stored in the "Input Files" folder.
 6) All input files must be .txt files.
 7) To change the input file, put the name of the desired file on line 128 of parking.py file in place of : ```input.txt```.
-8) Could have used Classes to improve the readability and use of variables.
+8) Could have used Classes (OOP Paradigms) to improve the readability and use of variables.
