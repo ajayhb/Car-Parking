@@ -1,3 +1,7 @@
+"""
+Author: Ajay Bhagchandani
+"""
+
 def createParkingLot(n):
     """Creates a parking lot of size n"""
 
