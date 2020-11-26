@@ -23,7 +23,7 @@
 # Assumptions used:
 
 1) Driver's Age Must be > 18.
-2) Creation of Car Park must be at the beginning and only once.
+2) Creation of Car Park must be at the beginning and only once for any particular input file.
 3) Duplicate Vehicle Registration numbers cases handled.
 4) Input files are processed one by one (1 in each run).
 5) All input files must stored in the "Input Files" folder.
