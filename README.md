@@ -1,7 +1,7 @@
 # Car-Parking System
   It is a python script that will serve all the desired purposes.
   
-# Setup:
+## Setup:
   1) No external libraries used in the script. So only Python 3.6+ Needed.
       1.1) If not availabe, use virtualenv.
       Commands for a virtualenv
@@ -20,7 +20,7 @@
   3) Go inside the repository and run the script by:
      python parking.py
      
-# Assumptions used:
+## Assumptions used:
 
 1) Driver's Age Must be > 18.
 2) Creation of Car Park must be at the beginning and only once for any particular input file.
